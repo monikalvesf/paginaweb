@@ -1,0 +1,67 @@
+body{
+  color: white;
+  background: #E6F7D3;
+  margin: 5px;
+  font-family: "Oswald", sans-serif;
+
+}
+
+header{
+  font-size: 75px;
+  color: green;
+  border-bottom: solid 2px green;
+  margin: 20px;
+  padding: 20px;
+  display: relative;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.entrada{
+  background: #8BC34A;
+  font-size: 25px;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+
+}
+
+.inicio{
+  margin-right: 50px;
+
+
+.entrada{
+  margin-right: 50px;
+  
+}
+
+.descricao{
+  font-size:30px;
+  text-align:justify;
+}
+
+img{
+ height: 200px;
+}
+
+.clipes{
+  display:flex;
+  overflow-x:auto;
+  gap: 10px;
+}
+
+.outros{
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 30px;
+  padding-let:20px;
+  padding-right: 20px;
+}
+
+.outros img{
+  opacity: 0.5;
+}
+
+.outros img:hover{
+  opacity:1.0;
+  border: solid 3px white;
+  border-radius:20px;
+}
